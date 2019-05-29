@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">icook</string>
+    <string name="log_in">Log in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="ingredients">Ingredient</string>
+    <string name="recipes">Recipes</string>
+    <string name="quantity">Quantity</string>
+    <string name="save">Save</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "988321560642",
+    "firebase_url": "https://icook-44031.firebaseio.com",
+    "project_id": "icook-44031",
+    "storage_bucket": "icook-44031.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988321560642:android:3c1ddb395d24621e",
+        "android_client_info": {
+          "package_name": "com.sgallard.icook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988321560642-ps094datn2qsrv2rmhn717eg5hkf2lf0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sgallard.icook",
+            "certificate_hash": "8fb709c107eb411711833024abe6c21c7668b421"
+          }
+        },
+        {
+          "client_id": "988321560642-0qaeb6941kcr8vh0qfijtjlbfqh1qj7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaFifA50plgeIhW0snNvD8P7EfWOmkmis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988321560642-0qaeb6941kcr8vh0qfijtjlbfqh1qj7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
